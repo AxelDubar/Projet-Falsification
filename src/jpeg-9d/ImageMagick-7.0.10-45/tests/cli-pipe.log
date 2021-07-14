@@ -1,0 +1,49 @@
+1..17
+ok
+PASS: tests/cli-pipe.tap 1
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 2
+-=>/tmp/magick-YzNPojmv3uzodXDVURn2-TD0UvSPywI0 MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 3
+-=>/tmp/magick-Y3Ck6TvAi2_X-H5SXSNQCedwWw6weWPa PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 4
+ok
+PASS: tests/cli-pipe.tap 5
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 6
+-=>/tmp/magick-FafyFUzazEuq5-ZdqcMnY5UiFZbHB31x MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 7
+-=>/tmp/magick-rIa4f1z0akrc9_0RMSrKFjfMfWEGHzWI PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 8
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 9
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 10
+ok
+PASS: tests/cli-pipe.tap 11
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 12
+-=>/tmp/magick-SiGsaPQwc2dMdDtF3PblblKX-q1aKTZi PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 13
+fd:5 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 14
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 15
+/home/axel/Bureau/M2/Codage_Compression_Mult/Projet/src/jpeg-9d/ImageMagick-7.0.10-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 16
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 17
